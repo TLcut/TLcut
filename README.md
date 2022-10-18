@@ -7,4 +7,6 @@
 <code><img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 ## 經常做一些有趣的小工具
 ## 精選作品
-[![Scratch](https://scratch.mit.edu/favicon.ico) Scratch](https://scratch.mit.edu/users/kiwichang2017)
+
+[1A2B大挑戰](https://tlcut.github.io/1A2B.github.io/1A2B/1AB.html)
+[二元一次方程式]([https://tlcut.github.io/1A2B.github.io/1A2B/1AB.html](https://tlcut.github.io/Binary_linear_equation.github.io/XY/XY.html))
