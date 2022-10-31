@@ -17,4 +17,4 @@ So the websites I make are not very fancy😢
 ### Painting is my other hobby🖌️
 But the drawing is not very good...
 ## `That's all`
-Seeing you in my project!
+Meet you in my project!
