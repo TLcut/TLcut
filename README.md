@@ -11,7 +11,7 @@ ${C#}
 Wow!I finally learned to program!
 ### ✨Cool projects =>
 [#Binary Linear Simultaneous Equations](https://tlcut.github.io/Binary_linear_equation.github.io/XY/XY.html)  
-[#1A2Bgrand challenge](https://tlcut.github.io/1A2B.github.io/1A2B/1AB.html)
+[#1A2B grand challenge](https://tlcut.github.io/1A2B.github.io/1A2B/1AB.html)
 ## `Oh no!My Css is terrible` 
 So the websites I make are not very fancy😢
 ### Painting is my other hobby🖌️
