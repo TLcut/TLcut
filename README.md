@@ -1,3 +1,12 @@
+<div>
+  <p>
+  <span align="left">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=TLcut&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
+  </span>
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLcut&langs_count=8" title="AAAA's Most Used Languages">
+  </p>
+<div>
+
 # `I'm TLChen`
 What's TLcut? That means a person who cut his scratch account then came to github!!!
 ## `<languages>` 
@@ -18,11 +27,3 @@ So the websites I make are not very fancy😢
 But the drawing is not very good...
 ## `That's all`
 Meet you in my project!
-<div>
-  <p>
-  <span align="left">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=TLcut&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
-  </span>
-  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NALocal&langs_count=8" title="AAAA's Most Used Languages">
-  </p>
-  <div>
