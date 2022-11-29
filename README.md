@@ -11,7 +11,7 @@ ${C#}
 Wow!I finally learned to program!
 ### ✨Cool projects =>
 [#FileHelper](https://github.com/TLcut/FileHelper)  
-[#1A2B grand challenge](https://tlcut.github.io/1A2B.github.io/1A2B/1AB.html)
+[#Calculator](https://github.com/TLcut/Calculator)
 ## `Oh no!My Css is terrible` 
 So the websites I make are not very fancy😢
 ### Painting is my other hobby🖌️
