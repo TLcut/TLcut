@@ -3,8 +3,8 @@ What's TLcut? That means a person who cut his scratch account then came to githu
 ## `<languages>` 
 ```ini
 ${Javascript}
-${HTML}
-${CSS}
+${Scratch}
+${Node.js}
 ${C#}
 ```
 ## `console.log("Hello world")`
