@@ -5,7 +5,7 @@ What's TLcut? That means a person who cut his scratch account then came to githu
 ${Javascript}
 ${Scratch}
 ${Node.js}
-${C#}
+${Kotlin}
 ```
 ## `console.log("Hello world")`
 Wow!I finally learned to program!
