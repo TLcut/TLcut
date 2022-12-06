@@ -1,7 +1,8 @@
 # `Hey stranger!`
+> ### Something about me...
 ```kotlin
 class Self_Introduction(){
-var Hobby:String = arrayOf(Promgram,PlayGames);
+var Hobby:String = arrayOf("Promgram","PlayGames","Draw");
 var Name:String = "TLChen";
 }
 ```
@@ -15,7 +16,6 @@ class Skills(){
 ```
 ## `println("Help!I am a noob")`
 ```kotlin
-NotGoodAt(Things = *_NotGoodAt);
 fun main(){
     var _NotGoodAt:String = arrayOf("Server","Css","Python",..anything)
     fun NotGoodAt(varag Things:String){
@@ -23,14 +23,12 @@ fun main(){
             println("I am a noob at $element");
         }
     }
+    NotGoodAt(Things = *_NotGoodAt);
 }
 ```
-### ✨Not Cool projects =>
-[#Bad FileHelper](https://github.com/TLcut/FileHelper)  
-[#Bad Calculator](https://github.com/TLcut/Calculator)
-## `SUS programer` 
-I make something terrible
-### Painting is my other hobby🖌️
-But the drawing is not very good...
+### `✨Not Cool projects`
+> [Bad FileHelper](https://github.com/TLcut/FileHelper)  
+> [Bad Calculator](https://github.com/TLcut/Calculator)
+    
 ## `That's all`
 Meet you in my project!
