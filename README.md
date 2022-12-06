@@ -32,10 +32,10 @@ fun main(){
     
 ## `That's all`
 ```kotlin
-    val SayGoodBye:Boolean = ture;
-    main(){
-        if(SayGoodbye){
-            println("Meet you in my project!");
-        }
+val SayGoodBye:Boolean = ture;
+main(){
+    if(SayGoodbye){
+        println("Meet you in my project!");
     }
+}
 ```
