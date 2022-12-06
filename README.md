@@ -6,7 +6,7 @@ class Self_Introduction(){
     var Name:String = "TLChen";
 }
 ```
-## `<languages>` 
+## `<Languages>` 
 ```kotlin
 class Skills(){
     var Javascript:String = "Main"; 
@@ -26,7 +26,7 @@ fun main(){
     NotGoodAt(Things = *_NotGoodAt);
 }
 ```
-### `✨Not Cool projects`
+### `✨Not cool projects`
 > [Bad FileHelper](https://github.com/TLcut/FileHelper)  
 > [Bad Calculator](https://github.com/TLcut/Calculator)
     
