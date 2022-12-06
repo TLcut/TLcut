@@ -31,4 +31,11 @@ fun main(){
 > [Bad Calculator](https://github.com/TLcut/Calculator)
     
 ## `That's all`
-Meet you in my project!
+```kotlin
+    val SayGoodBye:Boolean = ture;
+    main(){
+        if(SayGoodbye){
+            println("Meet you in my project!");
+        }
+    }
+```
