@@ -1,11 +1,12 @@
 # `I'm TLChen`
 What's TLcut? That means a person who cut his scratch account then came to github!!!
 ## `<languages>` 
-```ini
-${Javascript}
-${Scratch}
-${Node.js}
-${Kotlin}
+```kotlin
+class Skills{
+    Javascript : "Main", 
+    C# : "Dying",
+    Kotlin : "Noob"
+}
 ```
 ## `console.log("Hello world")`
 Wow!I finally learned to program!
