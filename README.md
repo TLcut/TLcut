@@ -2,8 +2,8 @@
 > ### Something about me...
 ```kotlin
 class Self_Introduction(){
-var Hobby:String = arrayOf("Promgram","PlayGames","Draw");
-var Name:String = "TLChen";
+    var Hobby:String = arrayOf("Promgram","PlayGames","Draw");
+    var Name:String = "TLChen";
 }
 ```
 ## `<languages>` 
