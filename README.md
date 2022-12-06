@@ -14,7 +14,7 @@ class Skills(){
     var Kotlin:String = "Noob";
 }
 ```
-## `println("Help!I am a noob")`
+## `println("I am a noob")`
 ```kotlin
 fun main(){
     var _NotGoodAt:String = arrayOf("Server","Css","Python",..anything)
