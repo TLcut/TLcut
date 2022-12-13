@@ -12,6 +12,7 @@ class Skills(){
     var Javascript:String = "Main"; 
     var C#:String = "Dying";
     var Kotlin:String = "Noob";
+    var python:String = "Noob"
 }
 ```
 ## `println("I am a noob")`
