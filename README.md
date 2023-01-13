@@ -18,7 +18,7 @@ class Skills(){
 ## `println("I am a noob")`
 ```kotlin
 fun main(){
-    var _NotGoodAt:String = arrayOf("Server","Css","Python",..anything)
+    var NotGoodAt:String = arrayOf("Server","Css","Python",..anything)
     fun NotGoodAt(varag Things:String){
         Things.forEach{element->
             println("I am a noob at $element");
