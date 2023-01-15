@@ -11,7 +11,7 @@ class Self_Introduction(){
 class Skills(){
     var Javascript:String = "Main"; 
     var C#:String = "Dying";
-    var Kotlin:String = "Noob";
+    var Kotlin:String = "favorite";
     var Python:String = "Noob";
 }
 ```
