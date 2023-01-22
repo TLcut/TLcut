@@ -29,7 +29,7 @@ fun main(){
 ```
 ### `✨Not cool projects`
 > [Bad TimeManagement Dolao](https://github.com/TLcut/TimeManageDolao)  
-> [Bad Calculator](https://github.com/TLcut/Hual_Bot)
+> [Bad Haul Bot](https://github.com/TLcut/Hual_Bot)
     
 ## `That's all`
 > ## In the end...
