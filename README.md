@@ -28,8 +28,8 @@ fun main(){
 }
 ```
 ### `✨Not cool projects`
-> [Bad FileHelper](https://github.com/TLcut/FileHelper)  
-> [Bad Calculator](https://github.com/TLcut/Calculator)
+> [Bad TimeManagement Dolao](https://github.com/TLcut/TimeManageDolao)  
+> [Bad Calculator](https://github.com/TLcut/Hual_Bot)
     
 ## `That's all`
 > ## In the end...
