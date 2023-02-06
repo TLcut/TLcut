@@ -10,7 +10,7 @@ class Self_Introduction(){
 ```kotlin
 class Skills(){
     var Lua:String = "Main"; 
-    var Javascript:String = "Main";
+    var Javascript:String = "Starter";
     var Kotlin:String = "favorite";
     var Python:String = "Noob";
 }
